@@ -68,7 +68,7 @@ void Shopping:: Menu(){
             ch = getch();
    }
 			
-			if(email=="abdul.armdb@gmail.com" && passward=="letscrack")
+			if(email=="admin@gmail.com" && passward=="admin123")
 			{
 				system("cls");
 				Admin();
