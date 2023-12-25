@@ -4,6 +4,23 @@
 
 This C++ project is a comprehensive shopping system that caters to both administrators and customers. It offers features such as product management, secure authentication for administrators, and a user-friendly interface for customers to browse and purchase products.
 
+#### Main Menu
+![Main_Menu](outputs/main_menu.png)
+
+#### Customer Panel
+![customer_panel](outputs/customer_panel1.png)
+
+![customer_panel2](outputs/customer_panel2.png)
+
+#### Receipt
+![receipt](outputs/receipt.png)
+
+#### Admin Panel
+![admin_panel2](outputs/admin_panel2.png)
+
+![admin_panel](outputs/admin_panel.png)
+
+
 ## Features
 
 ### Administrator Module
